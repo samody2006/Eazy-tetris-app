@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.retroblocks.app-release-46:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.retroblocks.app-main-47:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.retroblocks.app-release-46:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.retroblocks.app-main-47:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.retroblocks.app-release-46:/raw_game_music.ogg.flat",
+        "source": "com.retroblocks.app-main-47:/raw/game_music.ogg"
+    },
+    {
+        "merged": "com.retroblocks.app-release-46:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.retroblocks.app-main-47:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.retroblocks.app-release-46:/raw_menu_music.ogg.flat",
+        "source": "com.retroblocks.app-main-47:/raw/menu_music.ogg"
+    }
+]

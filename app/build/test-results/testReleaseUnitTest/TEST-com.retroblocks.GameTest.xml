@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.retroblocks.GameTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2026-09-18T14:56:40.851Z" hostname="DESKTOP-643JDCQ" time="0.218">
+  <properties/>
+  <testcase name="sevenBagContainsEachPieceExactlyOnce" classname="com.retroblocks.GameTest" time="0.181"/>
+  <testcase name="forcedSequenceIsDeterministic" classname="com.retroblocks.GameTest" time="0.003"/>
+  <testcase name="levelSpeedGetsFaster" classname="com.retroblocks.GameTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ic_launcher_background">#070B18</color>
+    <style name="Theme.RetroBlocks" parent="android:style/Theme.Material.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:colorAccent">#00E5FF</item>
+        <item name="android:navigationBarColor">#070B18</item>
+        <item name="android:statusBarColor">#070B18</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>

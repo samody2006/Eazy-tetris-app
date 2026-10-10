@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.7.1\\com.retroblocks.app-debug-46:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.7.1\\com.retroblocks.app-main-48:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "com.retroblocks.app-debug-46:/raw_game_music.ogg.flat",
+        "source": "com.retroblocks.app-main-48:/raw/game_music.ogg"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.7.1\\com.retroblocks.app-debug-46:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.7.1\\com.retroblocks.app-main-48:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.7.1\\com.retroblocks.app-debug-46:\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.7.1\\com.retroblocks.app-main-48:\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.retroblocks.app-debug-46:/raw_menu_music.ogg.flat",
+        "source": "com.retroblocks.app-main-48:/raw/menu_music.ogg"
+    }
+]
